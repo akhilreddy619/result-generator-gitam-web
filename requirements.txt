@@ -36,7 +36,6 @@ jupyter-console==5.2.0
 jupyter-core==4.4.0
 macholib==1.9
 MarkupSafe==1.0
-menuinst==1.4.11
 mistune==0.8.3
 nbconvert==5.3.1
 nbformat==4.4.0
@@ -57,7 +56,6 @@ PyQt5==5.10.1
 PySocks==1.6.7
 python-dateutil==2.7.0
 pytz==2018.3
-pywin32==222
 pywinpty==0.5.1
 pyzmq==17.0.0
 qtconsole==4.3.1
